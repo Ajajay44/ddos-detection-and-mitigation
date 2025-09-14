@@ -58,7 +58,7 @@ This repository contains a solution for detecting and mitigating Distributed Den
 
 1.  **Run the Ryu controller with the DDoS detection application:**
     ```bash
-    ryu-manager ryu/ryu/app/ddos_detector.py
+    ryu-manager DDOS_Attack_Detection_Mitigation-master/controller/KNN_controller.py
     ```
 2.  **In a separate terminal, start the Mininet topology:**
     ```bash
