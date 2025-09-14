@@ -1,4 +1,4 @@
-Of course, here is a README file for your project.
+
 
 # DDoS Detection and Mitigation in SDN
 
